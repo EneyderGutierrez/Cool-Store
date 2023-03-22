@@ -2,7 +2,6 @@
   "name": "onlineshop",
   "version": "1.0.0",
   "description": "Tienda online",
-  "main": "app.js",
   "scripts": {
     "deploy": "gh-pages -d .",
     "test": "echo \"Error: no test specified\" && exit 1"
