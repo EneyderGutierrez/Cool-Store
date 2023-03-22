@@ -4,7 +4,7 @@
   "description": "Tienda online",
   "main": "app.js",
   "scripts": {
-    "deploy" : "gh-pages -d .",
+    "deploy": "gh-pages -d .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
